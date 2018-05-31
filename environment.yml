@@ -1,0 +1,15 @@
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+ - matplotlib
+ - numpy
+ - scipy
+ - seaborn
+ - scikit-image
+ - scikit-learn
+ - imageio
+ - pillow
+ - tqdm
+ - pandas
+ - nltk
